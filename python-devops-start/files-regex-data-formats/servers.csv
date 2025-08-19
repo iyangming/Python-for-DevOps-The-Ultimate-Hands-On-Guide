@@ -1,3 +1,0 @@
-hostname,ip_address,role,status,tags
-web01,10.0.1.5,webserver,running,"frontend,prod"
-db01,10.0.2.10,database,maintenance,"backend,staging"
